@@ -6,6 +6,21 @@ Looking for a specific plant or want to learn more about a plant that you've see
 
 Spotted a new plant on campus? Create a profile page for that plant and add updates to its feed, like pictures or statuses. Who knows, there might even be a reward waiting for you if you do!
 
+
+## Team
+
+* Matthew Schultz
+* Jonathan Quemuel
+* Nathan Nahina
+* Bill Mullen
+* Gabriel Viloria
+
+
+## Team Coordination
+
+The LetUmGrow team uses a combination of slack, google apps, and github to schedule meetings and coordinate tasks.
+
+
 ## Landing Page
 ![Landing_Page](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/landing_page_gabe.png?raw=tru "mockup")
 
