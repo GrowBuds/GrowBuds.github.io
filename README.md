@@ -20,8 +20,9 @@ Spotted a new plant on campus? Create a profile page for that plant and add upda
 
 The LetUmGrow team uses a combination of slack, google apps, and github to schedule meetings and coordinate tasks.
 
+## Pages
 
-## Landing Page
+**Landing Page**
 ![Landing_Page](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/landing_page_gabe.png?raw=tru "mockup")
 
 ## User Profile Page
