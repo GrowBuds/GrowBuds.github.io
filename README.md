@@ -6,18 +6,26 @@ Looking for a specific plant or want to learn more about a plant that you've see
 
 Spotted a new plant on campus? Create a profile page for that plant and add updates to its feed, like pictures or statuses. Who knows, there might even be a reward waiting for you if you do!
 
+## Landing Page
 ![Landing_Page](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/landing_page_gabe.png?raw=tru "mockup")
 
+## User Profile Page
 ![User_Profile_Page](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/user_profile_page_bill.png?raw=tru "mockup")
 
+## Plant Profile Page
 ![Plant_Profile_Page](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/plant_profile_page_nate.PNG?raw=tru "mockup")
 
+## Botanodex Page
 ![Botanodex_Page1](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/botanodex_page_nate.PNG?raw=tru "mockup")
 
+## Botanodex Page
 ![Botanodex_Page2](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/botanodex_page_bill.png?raw=tru "mockup")
 
+## Add Plant Page
 ![Add_Plant_Page](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/add_plant_page_gabe.png?raw=tru "mockup")
 
+## Plant Map Page
 ![Plant_Map_Page](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/plant_map_page_bill.png?raw=tru "mockup")
 
+## FAQ Page
 ![FAQs](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/faqs_page_gabe.png?raw=tru "mockup")
