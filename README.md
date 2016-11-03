@@ -9,10 +9,10 @@ Spotted a new plant on campus? Create a profile page for that plant and add upda
 
 ## Team
 
-* Matthew Schultz
-* Jonathan Quemuel
-* Nathan Nahina
 * Bill Mullen
+* Nathan Nahina
+* Jonathan Quemuel
+* Matthew Schultz
 * Gabriel Viloria
 
 
