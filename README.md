@@ -10,9 +10,9 @@ Spotted a new plant on campus? Create a profile page for that plant and add upda
 
 ![User_Profile_Page](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/user_profile_page_bill.png?raw=tru "mockup")
 
-![Plant_Profile_Page](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/plant_profile_page_nate.png?raw=tru "mockup")
+![Plant_Profile_Page](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/plant_profile_page_nate.PNG?raw=tru "mockup")
 
-![Botanodex_Page1](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/botanodex_page_nate.png?raw=tru "mockup")
+![Botanodex_Page1](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/botanodex_page_nate.PNG?raw=tru "mockup")
 
 ![Botanodex_Page2](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/botanodex_page_bill.png?raw=tru "mockup")
 
