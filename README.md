@@ -22,26 +22,26 @@ The LetUmGrow team uses a combination of slack, google apps, and github to sched
 
 ## Pages
 
-**Landing Page**
+### Landing Page
 ![Landing_Page](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/landing_page_gabe.png?raw=tru "mockup")
 
-## User Profile Page
+### User Profile Page
 ![User_Profile_Page](/doc/user_profile_page_bill.png)
 
-## Plant Profile Page
+### Plant Profile Page
 ![Plant_Profile_Page](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/plant_profile_page_nate.PNG?raw=tru "mockup")
 
-## Botanodex Page
+### Botanodex Page
 ![Botanodex_Page1](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/botanodex_page_nate.PNG?raw=tru "mockup")
 
-## Botanodex Page
+### Botanodex Page
 ![Botanodex_Page2](/doc/botanodex_page_bill.png)
 
-## Add Plant Page
+### Add Plant Page
 ![Add_Plant_Page](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/add_plant_page_gabe.png?raw=tru "mockup")
 
-## Plant Map Page
+### Plant Map Page
 ![Plant_Map_Page](/doc/plant_map_page_bill.png)
 
-## FAQ Page
+### FAQ Page
 ![FAQs](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/faqs_page_gabe.png?raw=tru "mockup")
