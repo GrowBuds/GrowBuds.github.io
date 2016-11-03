@@ -1,5 +1,5 @@
 ## About
-
+![test](https://github.com/LetUmGrow/LetUmGrow.github.io/tree/master/images/blacktocat.png?raw=tru "testimage")
 LetUmGrow is a social network for plants located on the UH Manoa Campus.
 
 Looking for a specific plant or want to learn more about a plant that you've seen? Our interactive map displays the location of nearby plants and links to each plant profile.
