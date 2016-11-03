@@ -25,7 +25,7 @@ The LetUmGrow team uses a combination of slack, google apps, and github to sched
 ![Landing_Page](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/landing_page_gabe.png?raw=tru "mockup")
 
 ## User Profile Page
-![User_Profile_Page](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/user_profile_page_bill.png?raw=tru "mockup")
+![User_Profile_Page](/doc/user_profile_page_bill.png)
 
 ## Plant Profile Page
 ![Plant_Profile_Page](https://github.com/LetUmGrow/LetUmGrow.github.io/blob/master/images/plant_profile_page_nate.PNG?raw=tru "mockup")
